@@ -1,0 +1,20 @@
+.headerCounter {
+  background-color: white;
+  border-bottom: 1px rgb(228, 228, 228) solid;
+  border-bottom-width: 100%;
+  position: sticky;
+  display: flex;
+}
+
+.headerCounter > h1 {
+  color: black;
+  font-size: 26px;
+  margin: 25px 0 20px 20px;
+  text-align: left;
+  font-family: "Montserrat" sans-serif;
+}
+.headerCounter > img {
+  width: 35px;
+  height: 40px;
+  margin: 20px 0 20px 50px;
+}
